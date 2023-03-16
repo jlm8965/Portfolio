@@ -557,6 +557,8 @@ section {
 .portfolio .portfolio-wrap {
   transition: 0.3s;
   position: relative;
+  /* height: 100%;
+  width: 100%;  */
   overflow: hidden;
   z-index: 1;
 }
