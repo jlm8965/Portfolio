@@ -15,6 +15,8 @@
 * Services Offered
 * Contact
 
-![PortfolioImage](iPortfolio\assets\img\Website.jpg)
+![PortfolioImage](https://github.com/jlm8965/github.io/blob/main/iPortfolio/assets/img/Website.jpg)
+
+
 
 
