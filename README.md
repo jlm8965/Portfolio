@@ -7,7 +7,7 @@
 * HTML5
 * CSS
 
-![Portfolio](C:\Users\julie\Documents\Portfolio\iPortfolio\iPortfolio\assets\img\Website.jpg)
+![Portfolio](iPortfolio\assets\img\Website.jpg)
 
 
 JulieLMonsees@gmail.com
