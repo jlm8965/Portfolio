@@ -7,7 +7,14 @@
 * HTML5
 * CSS
 
-![Portfolio](iPortfolio\assets\img\Website.jpg)
+##### Sections:
+* Home
+* About 
+* Resume
+* Portfolio
+* Services Offered
+* Contact
+
+![PortfolioImage](iPortfolio\assets\img\Website.jpg)
 
 
-JulieLMonsees@gmail.com
