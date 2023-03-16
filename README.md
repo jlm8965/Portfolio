@@ -2,6 +2,8 @@
 
 ### The first iteration of jlm8965.github.io built with IPortfolio and hosted with Github Pages. 
 
+![PortfolioImage](https://github.com/jlm8965/github.io/blob/main/iPortfolio/assets/img/Website.jpg)
+
 #### Languages used: 
 * Javascript
 * HTML5
@@ -15,7 +17,7 @@
 * Services Offered
 * Contact
 
-![PortfolioImage](https://github.com/jlm8965/github.io/blob/main/iPortfolio/assets/img/Website.jpg)
+
 
 
 
